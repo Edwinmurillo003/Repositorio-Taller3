@@ -1,0 +1,48 @@
+OS: LINUX MINT 22.2 x86_64:
+ Es el sistema operativo que usamos y que es de 64 bits
+
+Host:HP ProDesk 405 G6 Small Form Factor PC
+Es el modelo del computador
+
+Kernel:6.14.0-36-generic
+Es el nucleo de Linux o mejor dicho el motor del sistema
+
+Uptime: 1 hour, 41 mins
+Es el tiempo que lleva el PC prendido sin reiniciarse
+
+Packages: 1978 (dpkg)
+Cantidad de programas instalados en el sistema.
+
+Shell: bash 5.2.21
+el interprete de comandos que se usan en la terminal (bash)
+
+Resolution:1920x1080
+Resolucion de la pantalla (Full HD)
+
+DE: Cinnamon 6.4.8
+entorno de escritorio
+
+WM: Mutter
+Gestor de ventanas, controla como se mueven y organizan.
+
+WM Theme: Tema visual de las ventanas.
+
+THEME:
+Tema general del sistema
+
+Icons: Mint-Y-Sand:
+paquete de iconos
+
+Terminal:
+Programa de terminal que estamos usando
+
+CPU:
+el procesador del PC
+
+GPU:
+Trajeta grafica integrada
+
+Memory:
+RAM usada/ RAM total (aprox. 16 en total)
+
+
