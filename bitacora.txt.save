@@ -1,0 +1,56 @@
+OS: LINUX MINT 22.2 x86_64:
+ Es el sistema operativo que usamos y que es de 64 bits
+
+Host:HP ProDesk 405 G6 Small Form Factor PC
+Es el modelo del computador
+
+Kernel:6.14.0-36-generic
+Es el nucleo de Linux o mejor dicho el motor del sistema
+
+Uptime: 1 hour, 41 mins
+Es el tiempo que lleva el PC prendido sin reiniciarse
+
+Packages: 1978 (dpkg)
+Cantidad de programas instalados en el sistema.
+
+Shell: bash 5.2.21
+el interprete de comandos que se usan en la terminal (bash)
+
+Resolution:1920x1080
+Resolucion de la pantalla (Full HD)
+
+DE: Cinnamon 6.4.8
+entorno de escritorio
+
+WM: Mutter
+Gestor de ventanas, controla como se mueven y organizan.
+
+WM Theme: Tema visual de las ventanas.
+
+THEME:
+Tema general del sistema
+
+Icons: Mint-Y-Sand:
+paquete de iconos
+
+Terminal:
+Programa de terminal que estamos usando
+
+CPU:
+el procesador del PC
+
+GPU:
+Trajeta grafica integrada
+
+Memory:
+RAM usada/ RAM total (aprox. 16 en total)
+
+Me salio un error o mejor dicho no me permitio la creacion de una carpeta dentro del root porque en el se encuentra el sistema centro del sistema operativo y hacer cualquir modificacion en algo que este dentro de el, puede llegar a dañar el computador completamente.
+
+lo pude solucionar digitando el comando "sudo mkdir" que sirve omo pase temporal al root y asi mismo poder crear la carpeta "Temporal"
+
+
+Nuevamente tuve un error para crear la carpeta "no_me_borres.txt, entonces procedere a usar el comando "sudo touch
+" 
+
+
